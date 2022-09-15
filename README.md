@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+**Link:** https://www.entrepreneur.com/science-technology/the-future-of-software-development-in-2022-and-beyond/403829
+
+**Response:**
+This article is about the current state of the software engineering field and trends that may take place in the near future. Something that I found interesting is the idea that thre is a 74% reduction in working in the office since the pandemic hit. The pandemic has allowed companies to realize that they in fact don't need to rent our expensive office spaces for their business to run smoothly. Many companies have moved a majority of their employees to remote work to some degree and have found this to be a effective way of functioning. Despite this being the trend, many firms are pushing to have all their employees to return to office full time because they have statistics to prove that the productivity of employees since work from home has decreased greatly. Although employees have pushed back, many firms insist on returning to being fully in person. I'm curious about how this disagreement will be resolved and will continue following the interactions between firms and employees on this topic.
